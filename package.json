@@ -1,0 +1,26 @@
+{
+  "name": "skku_stat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "bode main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eeassn/oss_nodejs.git"
+  },
+  "bin": {
+    "stat": "./main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eeassn/oss_nodejs/issues"
+  },
+  "homepage": "https://github.com/eeassn/oss_nodejs#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
